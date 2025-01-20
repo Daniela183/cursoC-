@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\ArraysList\ArraysList\bin\Debug\net6.0\ArrayI.exe
+C:\Users\danie\source\repos\ArraysList\ArraysList\bin\Debug\net6.0\ArrayI.deps.json
+C:\Users\danie\source\repos\ArraysList\ArraysList\bin\Debug\net6.0\ArrayI.runtimeconfig.json
+C:\Users\danie\source\repos\ArraysList\ArraysList\bin\Debug\net6.0\ArrayI.dll
+C:\Users\danie\source\repos\ArraysList\ArraysList\bin\Debug\net6.0\ArrayI.pdb
+C:\Users\danie\source\repos\ArraysList\ArraysList\obj\Debug\net6.0\ArrayI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ArraysList\ArraysList\obj\Debug\net6.0\ArrayI.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ArraysList\ArraysList\obj\Debug\net6.0\ArrayI.AssemblyInfo.cs
+C:\Users\danie\source\repos\ArraysList\ArraysList\obj\Debug\net6.0\ArrayI.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ArraysList\ArraysList\obj\Debug\net6.0\ArrayI.dll
+C:\Users\danie\source\repos\ArraysList\ArraysList\obj\Debug\net6.0\refint\ArrayI.dll
+C:\Users\danie\source\repos\ArraysList\ArraysList\obj\Debug\net6.0\ArrayI.pdb
+C:\Users\danie\source\repos\ArraysList\ArraysList\obj\Debug\net6.0\ArrayI.genruntimeconfig.cache
+C:\Users\danie\source\repos\ArraysList\ArraysList\obj\Debug\net6.0\ref\ArrayI.dll

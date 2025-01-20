@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\bin\Debug\net6.0\ListArrayList.exe
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\bin\Debug\net6.0\ListArrayList.deps.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\bin\Debug\net6.0\ListArrayList.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\bin\Debug\net6.0\ListArrayList.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\bin\Debug\net6.0\ListArrayList.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\obj\Debug\net6.0\ListArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\obj\Debug\net6.0\ListArrayList.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\obj\Debug\net6.0\ListArrayList.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\obj\Debug\net6.0\ListArrayList.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\obj\Debug\net6.0\ListArrayList.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\obj\Debug\net6.0\refint\ListArrayList.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\obj\Debug\net6.0\ListArrayList.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\obj\Debug\net6.0\ListArrayList.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListArrayList\obj\Debug\net6.0\ref\ListArrayList.dll

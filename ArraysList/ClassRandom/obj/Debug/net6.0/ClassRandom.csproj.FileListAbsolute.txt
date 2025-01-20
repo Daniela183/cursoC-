@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\bin\Debug\net6.0\ClassRandom.exe
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\bin\Debug\net6.0\ClassRandom.deps.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\bin\Debug\net6.0\ClassRandom.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\bin\Debug\net6.0\ClassRandom.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\bin\Debug\net6.0\ClassRandom.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\obj\Debug\net6.0\ClassRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\obj\Debug\net6.0\ClassRandom.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\obj\Debug\net6.0\ClassRandom.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\obj\Debug\net6.0\ClassRandom.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\obj\Debug\net6.0\ClassRandom.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\obj\Debug\net6.0\refint\ClassRandom.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\obj\Debug\net6.0\ClassRandom.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\obj\Debug\net6.0\ClassRandom.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ClassRandom\obj\Debug\net6.0\ref\ClassRandom.dll

@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\bin\Debug\net6.0\ExercicoPropriedades.exe
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\bin\Debug\net6.0\ExercicoPropriedades.deps.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\bin\Debug\net6.0\ExercicoPropriedades.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\bin\Debug\net6.0\ExercicoPropriedades.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\bin\Debug\net6.0\ExercicoPropriedades.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\obj\Debug\net6.0\ExercicoPropriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\obj\Debug\net6.0\ExercicoPropriedades.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\obj\Debug\net6.0\ExercicoPropriedades.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\obj\Debug\net6.0\ExercicoPropriedades.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\obj\Debug\net6.0\ExercicoPropriedades.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\obj\Debug\net6.0\refint\ExercicoPropriedades.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\obj\Debug\net6.0\ExercicoPropriedades.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\obj\Debug\net6.0\ExercicoPropriedades.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ExercicoPropriedades\obj\Debug\net6.0\ref\ExercicoPropriedades.dll

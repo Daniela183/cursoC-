@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\bin\Debug\net6.0\ColecaoListTI.exe
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\bin\Debug\net6.0\ColecaoListTI.deps.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\bin\Debug\net6.0\ColecaoListTI.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\bin\Debug\net6.0\ColecaoListTI.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\bin\Debug\net6.0\ColecaoListTI.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\obj\Debug\net6.0\ColecaoListTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\obj\Debug\net6.0\ColecaoListTI.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\obj\Debug\net6.0\ColecaoListTI.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\obj\Debug\net6.0\ColecaoListTI.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\obj\Debug\net6.0\ColecaoListTI.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\obj\Debug\net6.0\refint\ColecaoListTI.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\obj\Debug\net6.0\ColecaoListTI.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\obj\Debug\net6.0\ColecaoListTI.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ColecaoListTI\obj\Debug\net6.0\ref\ColecaoListTI.dll

@@ -1,0 +1,4 @@
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\DateOnly\obj\Debug\net7.0\DateOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\DateOnly\obj\Debug\net7.0\DateOnly.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\DateOnly\obj\Debug\net7.0\DateOnly.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\DateOnly\obj\Debug\net7.0\DateOnly.csproj.CoreCompileInputs.cache

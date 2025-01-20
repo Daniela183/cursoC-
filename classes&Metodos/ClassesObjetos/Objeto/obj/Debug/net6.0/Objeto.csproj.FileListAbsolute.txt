@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\bin\Debug\net6.0\Objeto.exe
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\bin\Debug\net6.0\Objeto.deps.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\bin\Debug\net6.0\Objeto.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\bin\Debug\net6.0\Objeto.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\bin\Debug\net6.0\Objeto.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\obj\Debug\net6.0\Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\obj\Debug\net6.0\Objeto.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\obj\Debug\net6.0\Objeto.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\obj\Debug\net6.0\Objeto.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\obj\Debug\net6.0\Objeto.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\obj\Debug\net6.0\refint\Objeto.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\obj\Debug\net6.0\Objeto.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\obj\Debug\net6.0\Objeto.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\Objeto\obj\Debug\net6.0\ref\Objeto.dll

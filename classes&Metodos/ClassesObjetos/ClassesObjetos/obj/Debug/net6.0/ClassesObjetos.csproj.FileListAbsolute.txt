@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\bin\Debug\net6.0\ClassesObjetos.exe
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\bin\Debug\net6.0\ClassesObjetos.deps.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\bin\Debug\net6.0\ClassesObjetos.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\bin\Debug\net6.0\ClassesObjetos.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\bin\Debug\net6.0\ClassesObjetos.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\obj\Debug\net6.0\ClassesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\obj\Debug\net6.0\ClassesObjetos.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\obj\Debug\net6.0\ClassesObjetos.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\obj\Debug\net6.0\ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\obj\Debug\net6.0\ClassesObjetos.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\obj\Debug\net6.0\refint\ClassesObjetos.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\obj\Debug\net6.0\ClassesObjetos.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\obj\Debug\net6.0\ClassesObjetos.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\ClassesObjetos\obj\Debug\net6.0\ref\ClassesObjetos.dll

@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\bin\Debug\net6.0\ExercicioPratico01.exe
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\bin\Debug\net6.0\ExercicioPratico01.deps.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\bin\Debug\net6.0\ExercicioPratico01.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\bin\Debug\net6.0\ExercicioPratico01.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\bin\Debug\net6.0\ExercicioPratico01.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\obj\Debug\net6.0\ExercicioPratico01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\obj\Debug\net6.0\ExercicioPratico01.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\obj\Debug\net6.0\ExercicioPratico01.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\obj\Debug\net6.0\ExercicioPratico01.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\obj\Debug\net6.0\ExercicioPratico01.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\obj\Debug\net6.0\refint\ExercicioPratico01.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\obj\Debug\net6.0\ExercicioPratico01.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\obj\Debug\net6.0\ExercicioPratico01.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ExerciciosPraticos\ExercicioPratico01\ExercicioPratico01\obj\Debug\net6.0\ref\ExercicioPratico01.dll

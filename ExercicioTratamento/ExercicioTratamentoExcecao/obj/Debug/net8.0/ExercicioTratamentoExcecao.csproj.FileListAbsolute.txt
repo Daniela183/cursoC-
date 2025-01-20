@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\bin\Debug\net8.0\ExercicioTratamentoExcecao.exe
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\bin\Debug\net8.0\ExercicioTratamentoExcecao.deps.json
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\bin\Debug\net8.0\ExercicioTratamentoExcecao.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\bin\Debug\net8.0\ExercicioTratamentoExcecao.dll
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\bin\Debug\net8.0\ExercicioTratamentoExcecao.pdb
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\obj\Debug\net8.0\ExercicioTratamentoExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\obj\Debug\net8.0\ExercicioTratamentoExcecao.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\obj\Debug\net8.0\ExercicioTratamentoExcecao.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\obj\Debug\net8.0\ExercicioTratamentoExcecao.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\obj\Debug\net8.0\ExercicioTratamentoExcecao.dll
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\obj\Debug\net8.0\refint\ExercicioTratamentoExcecao.dll
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\obj\Debug\net8.0\ExercicioTratamentoExcecao.pdb
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\obj\Debug\net8.0\ExercicioTratamentoExcecao.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ExercicioTratamento\ExercicioTratamentoExcecao\obj\Debug\net8.0\ref\ExercicioTratamentoExcecao.dll

@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.exe
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.deps.json
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\bin\Debug\net8.0\ExercicioDictionary.pdb
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\obj\Debug\net8.0\refint\ExercicioDictionary.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.pdb
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\obj\Debug\net8.0\ExercicioDictionary.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioDictionary\obj\Debug\net8.0\ref\ExercicioDictionary.dll

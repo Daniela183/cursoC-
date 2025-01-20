@@ -1,0 +1,412 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6320928-36BD-4B25-9638-CC5664A23643}|PolimorfismoSobrecarga\\PolimorfismoSobrecarga.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\polimorfismosobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6320928-36BD-4B25-9638-CC5664A23643}|PolimorfismoSobrecarga\\PolimorfismoSobrecarga.csproj|solutionrelative:polimorfismosobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0E71A7-1BC2-4C78-80B8-347882F2089D}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\polimorfismo\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{8A0E71A7-1BC2-4C78-80B8-347882F2089D}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0E71A7-1BC2-4C78-80B8-347882F2089D}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0E71A7-1BC2-4C78-80B8-347882F2089D}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0E71A7-1BC2-4C78-80B8-347882F2089D}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\polimorfismo\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0E71A7-1BC2-4C78-80B8-347882F2089D}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0E71A7-1BC2-4C78-80B8-347882F2089D}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0E71A7-1BC2-4C78-80B8-347882F2089D}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0E71A7-1BC2-4C78-80B8-347882F2089D}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0E71A7-1BC2-4C78-80B8-347882F2089D}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\herancacomposicao\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|solutionrelative:herancacomposicao\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\herancacomposicao\\comportamentoandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|solutionrelative:herancacomposicao\\comportamentoandar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\herancacomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|solutionrelative:herancacomposicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\herancacomposicao\\homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|solutionrelative:herancacomposicao\\homem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\herancacomposicao\\macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|solutionrelative:herancacomposicao\\macaco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\herancacomposicao\\comportamentonadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|solutionrelative:herancacomposicao\\comportamentonadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\herancacomposicao\\sardinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|solutionrelative:herancacomposicao\\sardinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\herancacomposicao\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD72C42-2E69-4A5C-92A7-1B08ADB316AB}|HerancaComposicao\\HerancaComposicao.csproj|solutionrelative:herancacomposicao\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41054711-C764-4E54-ACE5-B573017DC628}|Agregacao\\Agregacao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\agregacao\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{41054711-C764-4E54-ACE5-B573017DC628}|Agregacao\\Agregacao.csproj|solutionrelative:agregacao\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41054711-C764-4E54-ACE5-B573017DC628}|Agregacao\\Agregacao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\agregacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41054711-C764-4E54-ACE5-B573017DC628}|Agregacao\\Agregacao.csproj|solutionrelative:agregacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41054711-C764-4E54-ACE5-B573017DC628}|Agregacao\\Agregacao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\agregacao\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41054711-C764-4E54-ACE5-B573017DC628}|Agregacao\\Agregacao.csproj|solutionrelative:agregacao\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41054711-C764-4E54-ACE5-B573017DC628}|Agregacao\\Agregacao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\agregacao\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41054711-C764-4E54-ACE5-B573017DC628}|Agregacao\\Agregacao.csproj|solutionrelative:agregacao\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CFD22D-9E5C-4B09-B2C3-071053CFE559}|Composicao\\Composicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\composicao\\instalador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CFD22D-9E5C-4B09-B2C3-071053CFE559}|Composicao\\Composicao.csproj|solutionrelative:composicao\\instalador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CFD22D-9E5C-4B09-B2C3-071053CFE559}|Composicao\\Composicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\composicao\\migrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CFD22D-9E5C-4B09-B2C3-071053CFE559}|Composicao\\Composicao.csproj|solutionrelative:composicao\\migrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CFD22D-9E5C-4B09-B2C3-071053CFE559}|Composicao\\Composicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\composicao\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CFD22D-9E5C-4B09-B2C3-071053CFE559}|Composicao\\Composicao.csproj|solutionrelative:composicao\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CFD22D-9E5C-4B09-B2C3-071053CFE559}|Composicao\\Composicao.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CFD22D-9E5C-4B09-B2C3-071053CFE559}|Composicao\\Composicao.csproj|solutionrelative:composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F821CA0B-6EA1-48B5-A1B3-9EF1CA133523}|Interfaces\\Interfaces.csproj|c:\\users\\danie\\desktop\\cursoc#\\programa\u00E7aoorientadaobjeto\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F821CA0B-6EA1-48B5-A1B3-9EF1CA133523}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\PolimorfismoSobrecarga\\Program.cs",
+              "RelativeDocumentMoniker": "PolimorfismoSobrecarga\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\PolimorfismoSobrecarga\\Program.cs",
+              "RelativeToolTip": "PolimorfismoSobrecarga\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:59:54.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Polimorfismo\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Polimorfismo\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Polimorfismo\\ClassDiagram1.cd",
+              "RelativeToolTip": "Polimorfismo\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-27T23:57:01.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Polimorfismo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Polimorfismo\\Triangulo.cs",
+              "RelativeToolTip": "Polimorfismo\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:37:11.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Polimorfismo\\Figura.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Figura.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Polimorfismo\\Figura.cs",
+              "RelativeToolTip": "Polimorfismo\\Figura.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:37:01.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Polimorfismo\\Circulo.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Circulo.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Polimorfismo\\Circulo.cs",
+              "RelativeToolTip": "Polimorfismo\\Circulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:36:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Polimorfismo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:35:48.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComportamentoAndar.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\ComportamentoAndar.cs",
+              "RelativeDocumentMoniker": "HerancaComposicao\\ComportamentoAndar.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\ComportamentoAndar.cs",
+              "RelativeToolTip": "HerancaComposicao\\ComportamentoAndar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:28:37.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Macaco.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\Macaco.cs",
+              "RelativeDocumentMoniker": "HerancaComposicao\\Macaco.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\Macaco.cs",
+              "RelativeToolTip": "HerancaComposicao\\Macaco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:29:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Homem.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\Homem.cs",
+              "RelativeDocumentMoniker": "HerancaComposicao\\Homem.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\Homem.cs",
+              "RelativeToolTip": "HerancaComposicao\\Homem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:28:57.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "HerancaComposicao\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\ClassDiagram1.cd",
+              "RelativeToolTip": "HerancaComposicao\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-27T18:33:26.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\Program.cs",
+              "RelativeDocumentMoniker": "HerancaComposicao\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\Program.cs",
+              "RelativeToolTip": "HerancaComposicao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:27:48.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ComportamentoNadar.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\ComportamentoNadar.cs",
+              "RelativeDocumentMoniker": "HerancaComposicao\\ComportamentoNadar.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\ComportamentoNadar.cs",
+              "RelativeToolTip": "HerancaComposicao\\ComportamentoNadar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:28:50.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sardinha.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\Sardinha.cs",
+              "RelativeDocumentMoniker": "HerancaComposicao\\Sardinha.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\Sardinha.cs",
+              "RelativeToolTip": "HerancaComposicao\\Sardinha.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:29:11.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\Animal.cs",
+              "RelativeDocumentMoniker": "HerancaComposicao\\Animal.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\HerancaComposicao\\Animal.cs",
+              "RelativeToolTip": "HerancaComposicao\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:29:20.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Agregacao\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Agregacao\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Agregacao\\ClassDiagram1.cd",
+              "RelativeToolTip": "Agregacao\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-27T18:19:27.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Agregacao\\Professor.cs",
+              "RelativeDocumentMoniker": "Agregacao\\Professor.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Agregacao\\Professor.cs",
+              "RelativeToolTip": "Agregacao\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:16:49.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Agregacao\\Departamento.cs",
+              "RelativeDocumentMoniker": "Agregacao\\Departamento.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Agregacao\\Departamento.cs",
+              "RelativeToolTip": "Agregacao\\Departamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:16:35.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Agregacao\\Program.cs",
+              "RelativeDocumentMoniker": "Agregacao\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Agregacao\\Program.cs",
+              "RelativeToolTip": "Agregacao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:15:54.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Instalador.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Composicao\\Instalador.cs",
+              "RelativeDocumentMoniker": "Composicao\\Instalador.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Composicao\\Instalador.cs",
+              "RelativeToolTip": "Composicao\\Instalador.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:04:28.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Migrador.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Composicao\\Migrador.cs",
+              "RelativeDocumentMoniker": "Composicao\\Migrador.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Composicao\\Migrador.cs",
+              "RelativeToolTip": "Composicao\\Migrador.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:03:54.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Composicao\\Logger.cs",
+              "RelativeDocumentMoniker": "Composicao\\Logger.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Composicao\\Logger.cs",
+              "RelativeToolTip": "Composicao\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:03:22.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Composicao\\Program.cs",
+              "RelativeDocumentMoniker": "Composicao\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Composicao\\Program.cs",
+              "RelativeToolTip": "Composicao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T18:01:16.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\cursoC#\\Programa\u00E7aoOrientadaObjeto\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Interfaces\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:55:55.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

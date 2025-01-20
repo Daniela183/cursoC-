@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\bin\Debug\net6.0\ListMtdFind.exe
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\bin\Debug\net6.0\ListMtdFind.deps.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\bin\Debug\net6.0\ListMtdFind.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\bin\Debug\net6.0\ListMtdFind.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\bin\Debug\net6.0\ListMtdFind.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\obj\Debug\net6.0\ListMtdFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\obj\Debug\net6.0\ListMtdFind.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\obj\Debug\net6.0\ListMtdFind.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\obj\Debug\net6.0\ListMtdFind.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\obj\Debug\net6.0\ListMtdFind.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\obj\Debug\net6.0\refint\ListMtdFind.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\obj\Debug\net6.0\ListMtdFind.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\obj\Debug\net6.0\ListMtdFind.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ListMtdFind\obj\Debug\net6.0\ref\ListMtdFind.dll

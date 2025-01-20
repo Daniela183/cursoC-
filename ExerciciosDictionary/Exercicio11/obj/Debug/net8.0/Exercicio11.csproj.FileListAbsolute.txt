@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\bin\Debug\net8.0\Exercicio11.exe
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\bin\Debug\net8.0\Exercicio11.deps.json
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\bin\Debug\net8.0\Exercicio11.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\bin\Debug\net8.0\Exercicio11.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\bin\Debug\net8.0\Exercicio11.pdb
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\obj\Debug\net8.0\Exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\obj\Debug\net8.0\Exercicio11.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\obj\Debug\net8.0\Exercicio11.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\obj\Debug\net8.0\refint\Exercicio11.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\obj\Debug\net8.0\Exercicio11.pdb
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\obj\Debug\net8.0\Exercicio11.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\Exercicio11\obj\Debug\net8.0\ref\Exercicio11.dll

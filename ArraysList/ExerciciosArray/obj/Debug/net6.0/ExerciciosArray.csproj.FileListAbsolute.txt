@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\bin\Debug\net6.0\ExerciciosArray.exe
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\bin\Debug\net6.0\ExerciciosArray.deps.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\bin\Debug\net6.0\ExerciciosArray.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\bin\Debug\net6.0\ExerciciosArray.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\bin\Debug\net6.0\ExerciciosArray.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\obj\Debug\net6.0\ExerciciosArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\obj\Debug\net6.0\ExerciciosArray.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\obj\Debug\net6.0\ExerciciosArray.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\obj\Debug\net6.0\ExerciciosArray.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\obj\Debug\net6.0\ExerciciosArray.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\obj\Debug\net6.0\refint\ExerciciosArray.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\obj\Debug\net6.0\ExerciciosArray.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\obj\Debug\net6.0\ExerciciosArray.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExerciciosArray\obj\Debug\net6.0\ref\ExerciciosArray.dll

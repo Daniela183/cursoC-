@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\bin\Debug\net8.0\FiltroExcecao.exe
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\bin\Debug\net8.0\FiltroExcecao.deps.json
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\bin\Debug\net8.0\FiltroExcecao.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\bin\Debug\net8.0\FiltroExcecao.dll
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\bin\Debug\net8.0\FiltroExcecao.pdb
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\obj\Debug\net8.0\FiltroExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\obj\Debug\net8.0\FiltroExcecao.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\obj\Debug\net8.0\FiltroExcecao.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\obj\Debug\net8.0\FiltroExcecao.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\obj\Debug\net8.0\FiltroExcecao.dll
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\obj\Debug\net8.0\refint\FiltroExcecao.dll
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\obj\Debug\net8.0\FiltroExcecao.pdb
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\obj\Debug\net8.0\FiltroExcecao.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\FiltroExcecao\obj\Debug\net8.0\ref\FiltroExcecao.dll

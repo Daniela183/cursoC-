@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\bin\Debug\net7.0\NovosRecursos.exe
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\bin\Debug\net7.0\NovosRecursos.deps.json
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\bin\Debug\net7.0\NovosRecursos.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\bin\Debug\net7.0\NovosRecursos.dll
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\bin\Debug\net7.0\NovosRecursos.pdb
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\obj\Debug\net7.0\NovosRecursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\obj\Debug\net7.0\NovosRecursos.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\obj\Debug\net7.0\NovosRecursos.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\obj\Debug\net7.0\NovosRecursos.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\obj\Debug\net7.0\NovosRecursos.dll
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\obj\Debug\net7.0\refint\NovosRecursos.dll
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\obj\Debug\net7.0\NovosRecursos.pdb
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\obj\Debug\net7.0\NovosRecursos.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\NovosRecursos\obj\Debug\net7.0\ref\NovosRecursos.dll

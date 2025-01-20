@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\bin\Debug\net8.0\ExercicioHeranca01.exe
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\bin\Debug\net8.0\ExercicioHeranca01.deps.json
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\bin\Debug\net8.0\ExercicioHeranca01.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\bin\Debug\net8.0\ExercicioHeranca01.dll
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\bin\Debug\net8.0\ExercicioHeranca01.pdb
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\obj\Debug\net8.0\ExercicioHeranca01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\obj\Debug\net8.0\ExercicioHeranca01.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\obj\Debug\net8.0\ExercicioHeranca01.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\obj\Debug\net8.0\ExercicioHeranca01.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\obj\Debug\net8.0\ExercicioHeranca01.dll
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\obj\Debug\net8.0\refint\ExercicioHeranca01.dll
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\obj\Debug\net8.0\ExercicioHeranca01.pdb
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\obj\Debug\net8.0\ExercicioHeranca01.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\HerancaExercicios\ExerciciosHeranca\obj\Debug\net8.0\ref\ExercicioHeranca01.dll

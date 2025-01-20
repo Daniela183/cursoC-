@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\bin\Debug\net8.0\DelegateExercicio.exe
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\bin\Debug\net8.0\DelegateExercicio.deps.json
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\bin\Debug\net8.0\DelegateExercicio.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\bin\Debug\net8.0\DelegateExercicio.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\bin\Debug\net8.0\DelegateExercicio.pdb
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\obj\Debug\net8.0\DelegateExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\obj\Debug\net8.0\DelegateExercicio.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\obj\Debug\net8.0\DelegateExercicio.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\obj\Debug\net8.0\DelegateExercicio.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\obj\Debug\net8.0\DelegateExercicio.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\obj\Debug\net8.0\refint\DelegateExercicio.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\obj\Debug\net8.0\DelegateExercicio.pdb
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\obj\Debug\net8.0\DelegateExercicio.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDelegates\DelegateExercicio\obj\Debug\net8.0\ref\DelegateExercicio.dll

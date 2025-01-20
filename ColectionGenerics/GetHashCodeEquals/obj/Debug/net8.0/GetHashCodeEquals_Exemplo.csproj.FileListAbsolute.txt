@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals_Exemplo.exe
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals_Exemplo.deps.json
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals_Exemplo.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals_Exemplo.dll
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\bin\Debug\net8.0\GetHashCodeEquals_Exemplo.pdb
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals_Exemplo.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals_Exemplo.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals_Exemplo.dll
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\obj\Debug\net8.0\refint\GetHashCodeEquals_Exemplo.dll
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals_Exemplo.pdb
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\obj\Debug\net8.0\GetHashCodeEquals_Exemplo.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\GetHashCodeEquals\obj\Debug\net8.0\ref\GetHashCodeEquals_Exemplo.dll

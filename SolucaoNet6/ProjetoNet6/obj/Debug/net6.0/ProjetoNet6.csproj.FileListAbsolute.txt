@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\bin\Debug\net6.0\ProjetoNet6.exe
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\bin\Debug\net6.0\ProjetoNet6.deps.json
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\bin\Debug\net6.0\ProjetoNet6.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\bin\Debug\net6.0\ProjetoNet6.dll
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\bin\Debug\net6.0\ProjetoNet6.pdb
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\obj\Debug\net6.0\ProjetoNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\obj\Debug\net6.0\ProjetoNet6.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\obj\Debug\net6.0\ProjetoNet6.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\obj\Debug\net6.0\ProjetoNet6.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\obj\Debug\net6.0\ProjetoNet6.dll
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\obj\Debug\net6.0\refint\ProjetoNet6.dll
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\obj\Debug\net6.0\ProjetoNet6.pdb
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\obj\Debug\net6.0\ProjetoNet6.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\SolucaoNet6\ProjetoNet6\obj\Debug\net6.0\ref\ProjetoNet6.dll

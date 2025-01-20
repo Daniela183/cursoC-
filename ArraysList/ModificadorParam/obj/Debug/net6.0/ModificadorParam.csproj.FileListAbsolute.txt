@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\bin\Debug\net6.0\ModificadorParam.exe
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\bin\Debug\net6.0\ModificadorParam.deps.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\bin\Debug\net6.0\ModificadorParam.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\bin\Debug\net6.0\ModificadorParam.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\bin\Debug\net6.0\ModificadorParam.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\obj\Debug\net6.0\ModificadorParam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\obj\Debug\net6.0\ModificadorParam.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\obj\Debug\net6.0\ModificadorParam.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\obj\Debug\net6.0\ModificadorParam.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\obj\Debug\net6.0\ModificadorParam.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\obj\Debug\net6.0\refint\ModificadorParam.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\obj\Debug\net6.0\ModificadorParam.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\obj\Debug\net6.0\ModificadorParam.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ModificadorParam\obj\Debug\net6.0\ref\ModificadorParam.dll

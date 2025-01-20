@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\bin\Debug\net8.0\AnaliseII.exe
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\bin\Debug\net8.0\AnaliseII.deps.json
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\bin\Debug\net8.0\AnaliseII.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\bin\Debug\net8.0\AnaliseII.dll
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\bin\Debug\net8.0\AnaliseII.pdb
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\obj\Debug\net8.0\AnaliseII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\obj\Debug\net8.0\AnaliseII.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\obj\Debug\net8.0\AnaliseII.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\obj\Debug\net8.0\AnaliseII.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\obj\Debug\net8.0\AnaliseII.dll
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\obj\Debug\net8.0\refint\AnaliseII.dll
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\obj\Debug\net8.0\AnaliseII.pdb
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\obj\Debug\net8.0\AnaliseII.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\AnaliseII\obj\Debug\net8.0\ref\AnaliseII.dll

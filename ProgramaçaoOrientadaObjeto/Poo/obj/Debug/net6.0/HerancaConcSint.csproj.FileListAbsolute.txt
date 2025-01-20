@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\bin\Debug\net6.0\HerancaConcSint.exe
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\bin\Debug\net6.0\HerancaConcSint.deps.json
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\bin\Debug\net6.0\HerancaConcSint.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\bin\Debug\net6.0\HerancaConcSint.dll
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\bin\Debug\net6.0\HerancaConcSint.pdb
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\obj\Debug\net6.0\HerancaConcSint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\obj\Debug\net6.0\HerancaConcSint.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\obj\Debug\net6.0\HerancaConcSint.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\obj\Debug\net6.0\HerancaConcSint.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\obj\Debug\net6.0\HerancaConcSint.dll
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\obj\Debug\net6.0\refint\HerancaConcSint.dll
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\obj\Debug\net6.0\HerancaConcSint.pdb
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\obj\Debug\net6.0\HerancaConcSint.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\Poo\obj\Debug\net6.0\ref\HerancaConcSint.dll

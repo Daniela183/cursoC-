@@ -1,0 +1,4 @@
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\TiposHeranca\obj\Debug\net8.0\TiposHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\TiposHeranca\obj\Debug\net8.0\TiposHeranca.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\TiposHeranca\obj\Debug\net8.0\TiposHeranca.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ProgramaçaoOrientadaObjeto\TiposHeranca\obj\Debug\net8.0\TiposHeranca.csproj.CoreCompileInputs.cache

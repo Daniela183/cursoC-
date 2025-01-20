@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\bin\Debug\net6.0\ArrayMultidimensionalI.exe
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\bin\Debug\net6.0\ArrayMultidimensionalI.deps.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\bin\Debug\net6.0\ArrayMultidimensionalI.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\bin\Debug\net6.0\ArrayMultidimensionalI.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\bin\Debug\net6.0\ArrayMultidimensionalI.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\obj\Debug\net6.0\ArrayMultidimensionalI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\obj\Debug\net6.0\ArrayMultidimensionalI.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\obj\Debug\net6.0\ArrayMultidimensionalI.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\obj\Debug\net6.0\ArrayMultidimensionalI.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\obj\Debug\net6.0\ArrayMultidimensionalI.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\obj\Debug\net6.0\refint\ArrayMultidimensionalI.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\obj\Debug\net6.0\ArrayMultidimensionalI.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\obj\Debug\net6.0\ArrayMultidimensionalI.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayMultidimensionalI\obj\Debug\net6.0\ref\ArrayMultidimensionalI.dll

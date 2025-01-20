@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\bin\Debug\net8.0\ExceçaoPersonalizada.exe
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\bin\Debug\net8.0\ExceçaoPersonalizada.deps.json
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\bin\Debug\net8.0\ExceçaoPersonalizada.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\bin\Debug\net8.0\ExceçaoPersonalizada.dll
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\bin\Debug\net8.0\ExceçaoPersonalizada.pdb
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\obj\Debug\net8.0\ExceçaoPersonalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\obj\Debug\net8.0\ExceçaoPersonalizada.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\obj\Debug\net8.0\ExceçaoPersonalizada.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\obj\Debug\net8.0\ExceçaoPersonalizada.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\obj\Debug\net8.0\ExceçaoPersonalizada.dll
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\obj\Debug\net8.0\refint\ExceçaoPersonalizada.dll
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\obj\Debug\net8.0\ExceçaoPersonalizada.pdb
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\obj\Debug\net8.0\ExceçaoPersonalizada.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\TratamentoErros\ExceçaoPersonalizada\obj\Debug\net8.0\ref\ExceçaoPersonalizada.dll

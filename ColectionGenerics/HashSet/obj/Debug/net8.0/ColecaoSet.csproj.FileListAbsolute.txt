@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\bin\Debug\net8.0\ColecaoSet.exe
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\bin\Debug\net8.0\ColecaoSet.deps.json
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\bin\Debug\net8.0\ColecaoSet.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\bin\Debug\net8.0\ColecaoSet.dll
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\bin\Debug\net8.0\ColecaoSet.pdb
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\obj\Debug\net8.0\ColecaoSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\obj\Debug\net8.0\ColecaoSet.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\obj\Debug\net8.0\ColecaoSet.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\obj\Debug\net8.0\ColecaoSet.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\obj\Debug\net8.0\ColecaoSet.dll
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\obj\Debug\net8.0\refint\ColecaoSet.dll
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\obj\Debug\net8.0\ColecaoSet.pdb
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\obj\Debug\net8.0\ColecaoSet.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ColectionGenerics\HashSet\obj\Debug\net8.0\ref\ColecaoSet.dll

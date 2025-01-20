@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\bin\Debug\net6.0\IEnumerable.exe
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\bin\Debug\net6.0\IEnumerable.deps.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\bin\Debug\net6.0\IEnumerable.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\bin\Debug\net6.0\IEnumerable.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\bin\Debug\net6.0\IEnumerable.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\obj\Debug\net6.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\obj\Debug\net6.0\IEnumerable.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\obj\Debug\net6.0\IEnumerable.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\obj\Debug\net6.0\IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\obj\Debug\net6.0\IEnumerable.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\obj\Debug\net6.0\refint\IEnumerable.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\obj\Debug\net6.0\IEnumerable.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\obj\Debug\net6.0\IEnumerable.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\IEnumerable\obj\Debug\net6.0\ref\IEnumerable.dll

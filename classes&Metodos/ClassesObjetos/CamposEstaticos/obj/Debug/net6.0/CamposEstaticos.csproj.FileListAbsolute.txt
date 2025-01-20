@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\bin\Debug\net6.0\CamposEstaticos.exe
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\bin\Debug\net6.0\CamposEstaticos.deps.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\bin\Debug\net6.0\CamposEstaticos.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\bin\Debug\net6.0\CamposEstaticos.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\bin\Debug\net6.0\CamposEstaticos.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\refint\CamposEstaticos.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\CamposEstaticos.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\CamposEstaticos\obj\Debug\net6.0\ref\CamposEstaticos.dll

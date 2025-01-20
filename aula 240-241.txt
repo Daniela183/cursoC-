@@ -1,0 +1,83 @@
+Olá Daniela,
+
+No LINQ, a sintaxe de consulta é semelhante ao SQL, o que facilita a transição para aqueles que já têm familiaridade com SQL. Vamos usar um exemplo de JOIN simples para ilustrar.
+
+Considere duas classes: Funcionario e Departamento. Queremos fazer um JOIN entre essas duas entidades com base no DepartamentoId.
+
+public class Funcionario
+{
+    public int FuncionarioId { get; set; }
+    public string Nome { get; set; }
+    public int DepartamentoId { get; set; }
+}
+ 
+public class Departamento
+{
+    public int DepartamentoId { get; set; }
+    public string Nome { get; set; }
+}
+Em SQL, uma consulta que faz o JOIN entre Funcionario e Departamento poderia ser algo como:
+
+SELECT f.Nome, d.Nome
+FROM Funcionario f
+JOIN Departamento d
+ON f.DepartamentoId = d.DepartamentoId;
+Agora, o equivalente em LINQ usando a sintaxe de consulta seria:
+
+var query = from f in funcionarios
+            join d in departamentos
+            on f.DepartamentoId equals d.DepartamentoId
+            select new { FuncionarioNome = f.Nome, DepartamentoNome = d.Nome };
+from: Define o primeiro conjunto de dados (funcionarios).
+
+join: Realiza a junção com o segundo conjunto de dados (departamentos).
+
+on ... equals ...: Define a condição de junção (semelhante ao ON no SQL).
+
+select new { ... }: Define o que será retornado, criando um novo objeto anônimo com os dados selecionados.
+
+É importante destacar que o LINQ, embora parecido com SQL, é executado em memória (no caso de coleções) ou traduzido em SQL pelo Entity Framework ao trabalhar com bancos de dados. O Entity Framework converte a consulta LINQ em SQL e a envia ao banco de dados para execução.
+
+Ao usar o Entity Framework, o LINQ gera o SQL automaticamente. O código LINQ acima seria traduzido em uma consulta SQL parecida com o exemplo mostrado anteriormente. Seu aluno pode visualizar o SQL gerado usando ferramentas de logging, como o Log do Entity Framework:
+
+dbContext.Database.Log = Console.WriteLine;
+
+O código completo do exemplo ficaria assim:
+
+var funcionarios = new List<Funcionario>
+{
+    new Funcionario { FuncionarioId = 1, Nome = "João", DepartamentoId = 1 },
+    new Funcionario { FuncionarioId = 2, Nome = "Maria", DepartamentoId = 2 }
+};
+ 
+var departamentos = new List<Departamento>
+{
+    new Departamento { DepartamentoId = 1, Nome = "TI" },
+    new Departamento { DepartamentoId = 2, Nome = "RH" }
+};
+ 
+var query = from f in funcionarios
+            join d in departamentos
+            on f.DepartamentoId equals d.DepartamentoId
+            select new { FuncionarioNome = f.Nome, DepartamentoNome = d.Nome };
+ 
+foreach (var result in query)
+{
+    Console.WriteLine($"Funcionário: {result.FuncionarioNome}, Departamento: {result.DepartamentoNome}");
+}
+Isso é equivalente a um INNER JOIN em SQL. A consulta resulta em:
+
+Funcionário: João, Departamento: TI
+
+Funcionário: Maria, Departamento: RH
+
+Resumindo
+
+A sintaxe de consulta LINQ imita a sintaxe SQL, o que facilita entender e construir consultas.
+
+As consultas LINQ são traduzidas em SQL pelo Entity Framework e enviadas ao banco de dados.
+
+Ferramentas de logging podem ser usadas para ver o SQL gerado a partir das consultas LINQ.
+
+jcm
+

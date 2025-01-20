@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\bin\Debug\net8.0\ExercicioQueue.exe
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\bin\Debug\net8.0\ExercicioQueue.deps.json
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\bin\Debug\net8.0\ExercicioQueue.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\bin\Debug\net8.0\ExercicioQueue.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\bin\Debug\net8.0\ExercicioQueue.pdb
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\obj\Debug\net8.0\ExercicioQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\obj\Debug\net8.0\ExercicioQueue.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\obj\Debug\net8.0\ExercicioQueue.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\obj\Debug\net8.0\ExercicioQueue.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\obj\Debug\net8.0\ExercicioQueue.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\obj\Debug\net8.0\refint\ExercicioQueue.dll
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\obj\Debug\net8.0\ExercicioQueue.pdb
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\obj\Debug\net8.0\ExercicioQueue.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ExerciciosDictionary\ExercicioQueue\obj\Debug\net8.0\ref\ExercicioQueue.dll

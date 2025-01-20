@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\bin\Debug\net8.0\ConstrutorPrimario.exe
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\bin\Debug\net8.0\ConstrutorPrimario.deps.json
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\bin\Debug\net8.0\ConstrutorPrimario.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\bin\Debug\net8.0\ConstrutorPrimario.dll
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\bin\Debug\net8.0\ConstrutorPrimario.pdb
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\obj\Debug\net8.0\ConstrutorPrimario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\obj\Debug\net8.0\ConstrutorPrimario.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\obj\Debug\net8.0\ConstrutorPrimario.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\obj\Debug\net8.0\ConstrutorPrimario.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\obj\Debug\net8.0\ConstrutorPrimario.dll
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\obj\Debug\net8.0\refint\ConstrutorPrimario.dll
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\obj\Debug\net8.0\ConstrutorPrimario.pdb
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\obj\Debug\net8.0\ConstrutorPrimario.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\AtualizacaoC#Recursos\ConstrutorPrimario\obj\Debug\net8.0\ref\ConstrutorPrimario.dll

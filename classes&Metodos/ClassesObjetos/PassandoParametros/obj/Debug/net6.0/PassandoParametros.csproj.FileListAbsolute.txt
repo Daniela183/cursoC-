@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\bin\Debug\net6.0\PassandoParametros.exe
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\bin\Debug\net6.0\PassandoParametros.deps.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\bin\Debug\net6.0\PassandoParametros.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\bin\Debug\net6.0\PassandoParametros.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\bin\Debug\net6.0\PassandoParametros.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\obj\Debug\net6.0\PassandoParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\obj\Debug\net6.0\PassandoParametros.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\obj\Debug\net6.0\PassandoParametros.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\obj\Debug\net6.0\PassandoParametros.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\obj\Debug\net6.0\PassandoParametros.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\obj\Debug\net6.0\refint\PassandoParametros.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\obj\Debug\net6.0\PassandoParametros.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\obj\Debug\net6.0\PassandoParametros.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\PassandoParametros\obj\Debug\net6.0\ref\PassandoParametros.dll

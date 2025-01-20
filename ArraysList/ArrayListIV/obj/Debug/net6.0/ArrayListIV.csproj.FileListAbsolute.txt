@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\bin\Debug\net6.0\ArrayListIV.exe
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\bin\Debug\net6.0\ArrayListIV.deps.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\bin\Debug\net6.0\ArrayListIV.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\bin\Debug\net6.0\ArrayListIV.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\bin\Debug\net6.0\ArrayListIV.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\obj\Debug\net6.0\ArrayListIV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\obj\Debug\net6.0\ArrayListIV.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\obj\Debug\net6.0\ArrayListIV.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\obj\Debug\net6.0\ArrayListIV.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\obj\Debug\net6.0\ArrayListIV.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\obj\Debug\net6.0\refint\ArrayListIV.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\obj\Debug\net6.0\ArrayListIV.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\obj\Debug\net6.0\ArrayListIV.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ArrayListIV\obj\Debug\net6.0\ref\ArrayListIV.dll

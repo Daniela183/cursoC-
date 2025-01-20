@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\bin\Debug\net6.0\MetodosRetorno.exe
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\bin\Debug\net6.0\MetodosRetorno.deps.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\bin\Debug\net6.0\MetodosRetorno.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\bin\Debug\net6.0\MetodosRetorno.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\bin\Debug\net6.0\MetodosRetorno.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\obj\Debug\net6.0\MetodosRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\obj\Debug\net6.0\MetodosRetorno.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\obj\Debug\net6.0\MetodosRetorno.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\obj\Debug\net6.0\MetodosRetorno.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\obj\Debug\net6.0\MetodosRetorno.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\obj\Debug\net6.0\refint\MetodosRetorno.dll
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\obj\Debug\net6.0\MetodosRetorno.pdb
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\obj\Debug\net6.0\MetodosRetorno.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\classes&Metodos\ClassesObjetos\MetodosRetorno\obj\Debug\net6.0\ref\MetodosRetorno.dll

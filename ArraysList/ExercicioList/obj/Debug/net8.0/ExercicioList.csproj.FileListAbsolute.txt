@@ -1,0 +1,14 @@
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\bin\Debug\net8.0\ExercicioList.exe
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\bin\Debug\net8.0\ExercicioList.deps.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\bin\Debug\net8.0\ExercicioList.runtimeconfig.json
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\bin\Debug\net8.0\ExercicioList.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\bin\Debug\net8.0\ExercicioList.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\obj\Debug\net8.0\ExercicioList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\obj\Debug\net8.0\ExercicioList.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\obj\Debug\net8.0\ExercicioList.AssemblyInfo.cs
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\obj\Debug\net8.0\ExercicioList.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\obj\Debug\net8.0\ExercicioList.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\obj\Debug\net8.0\refint\ExercicioList.dll
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\obj\Debug\net8.0\ExercicioList.pdb
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\obj\Debug\net8.0\ExercicioList.genruntimeconfig.cache
+C:\Users\danie\Desktop\cursoC#\ArraysList\ExercicioList\obj\Debug\net8.0\ref\ExercicioList.dll
